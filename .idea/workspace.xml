@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0a4ec1c-ea04-4aa0-a237-534ae3d3bfae" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/app/polls/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/polls/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/app/wsgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/polls/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/polls/migrations/0001_initial.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/polls/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/polls/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/polls/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/polls/urls.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,11 +24,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/polls/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="360">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -34,14 +36,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/polls/admin.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-              <folding>
-                <element signature="e#0#32#0" expanded="true" />
-              </folding>
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -58,8 +57,8 @@
         <option value="$PROJECT_DIR$/app/polls/urls.py" />
         <option value="$PROJECT_DIR$/app/app/urls.py" />
         <option value="$PROJECT_DIR$/app/app/settings.py" />
-        <option value="$PROJECT_DIR$/app/polls/models.py" />
         <option value="$PROJECT_DIR$/app/polls/admin.py" />
+        <option value="$PROJECT_DIR$/app/polls/models.py" />
       </list>
     </option>
   </component>
@@ -82,17 +81,6 @@
             <path>
               <item name="django-tutorial" type="b2602c69:ProjectViewProjectNode" />
               <item name="django-tutorial" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="django-tutorial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="django-tutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="django-tutorial" type="b2602c69:ProjectViewProjectNode" />
-              <item name="django-tutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="polls" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -202,22 +190,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/polls/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/polls/admin.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/polls/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
           <folding>
-            <element signature="e#0#32#0" expanded="true" />
+            <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
